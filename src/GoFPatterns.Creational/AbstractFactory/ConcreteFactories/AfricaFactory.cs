@@ -5,6 +5,9 @@ using GoFPatterns.Creational.AbstractFactory.ConcreteEntities;
 
 namespace GoFPatterns.Creational.AbstractFactory.ConcreteFactories
 {
+    /// <summary>
+    /// Implements the operations to create concrete entities objects.
+    /// </summary>
     public class AfricaFactory : ContinentFactory
     {
         public override Carnivore CreateCarnivore()

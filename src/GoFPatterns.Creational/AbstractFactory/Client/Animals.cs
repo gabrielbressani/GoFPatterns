@@ -7,6 +7,9 @@ using System.Threading.Tasks;
 
 namespace GoFPatterns.Creational.AbstractFactory.Client
 {
+    /// <summary>
+    /// Uses interfaces declared by abstract factory and abstract entities classes.
+    /// </summary>
     public class Animals
     {
         private readonly Herbivore _herbivore;
