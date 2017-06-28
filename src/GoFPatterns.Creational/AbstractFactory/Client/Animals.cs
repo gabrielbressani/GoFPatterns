@@ -21,6 +21,9 @@ namespace GoFPatterns.Creational.AbstractFactory.Client
             _carnivore = continentFactory.CreateCarnivore();
         }
 
+        /// <summary>
+        /// This is the method where universes relate.
+        /// </summary>
         public void RunFoodChain()
         {
             _carnivore.Eat(_herbivore);
