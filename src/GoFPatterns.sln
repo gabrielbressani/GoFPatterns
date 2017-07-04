@@ -12,6 +12,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Creational", "Creational", 
 EndProject
 Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "GoFPatterns.Creational", "GoFPatterns.Creational\GoFPatterns.Creational.xproj", "{CB788103-EF6C-4266-BB7C-227085E4F80F}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Structural", "Structural", "{D0A04C21-366E-4BFF-95E1-FE4683A723FF}"
+EndProject
+Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "GofPatterns.Structural", "GofPatterns.Structural\GofPatterns.Structural.xproj", "{C1FF6B01-20BD-482B-B334-5872998CB6A8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -22,11 +26,16 @@ Global
 		{CB788103-EF6C-4266-BB7C-227085E4F80F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CB788103-EF6C-4266-BB7C-227085E4F80F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CB788103-EF6C-4266-BB7C-227085E4F80F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C1FF6B01-20BD-482B-B334-5872998CB6A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1FF6B01-20BD-482B-B334-5872998CB6A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1FF6B01-20BD-482B-B334-5872998CB6A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1FF6B01-20BD-482B-B334-5872998CB6A8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{CB788103-EF6C-4266-BB7C-227085E4F80F} = {318A518E-E63D-4417-8904-C18CC24C9B92}
+		{C1FF6B01-20BD-482B-B334-5872998CB6A8} = {D0A04C21-366E-4BFF-95E1-FE4683A723FF}
 	EndGlobalSection
 EndGlobal
