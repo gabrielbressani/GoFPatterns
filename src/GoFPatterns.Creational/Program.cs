@@ -7,8 +7,8 @@ namespace GoFPatterns.Creational
         public static void Main()
         {
             FactoryMethod.RealWorld.Run();
-            AbstractFactory.RealWord.Run();
-            Singleton.RealWord.Run();
+            AbstractFactory.RealWorld.Run();
+            Singleton.RealWorld.Run();
 
             Console.ReadKey();
         }
