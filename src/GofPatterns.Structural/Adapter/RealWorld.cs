@@ -3,7 +3,7 @@ using System;
 
 namespace GofPatterns.Structural.Adapter
 {
-    public class RealWord
+    public class RealWorld
     {
         public static void Run()
         {

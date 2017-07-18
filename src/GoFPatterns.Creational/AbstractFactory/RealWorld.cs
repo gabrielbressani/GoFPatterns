@@ -4,7 +4,7 @@ using GoFPatterns.Creational.AbstractFactory.ConcreteFactories;
 
 namespace GoFPatterns.Creational.AbstractFactory
 {
-    public class RealWord
+    public class RealWorld
     {
         public static void Run()
         {

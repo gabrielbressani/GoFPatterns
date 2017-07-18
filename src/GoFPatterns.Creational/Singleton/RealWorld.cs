@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace GoFPatterns.Creational.Singleton
 {
-    public class RealWord
+    public class RealWorld
     {
         public static void Run()
         {
