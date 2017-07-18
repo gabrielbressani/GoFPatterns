@@ -7,6 +7,7 @@ namespace GofPatterns.Structural
         public static void Main()
         {
             Adapter.RealWord.Run();
+            Facade.RealWorld.Run();
 
             Console.ReadKey();
         }
