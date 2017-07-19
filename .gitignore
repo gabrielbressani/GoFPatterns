@@ -1,0 +1,12 @@
+*.suo
+src/GoFPatterns.Behavioral/bin/Debug/netcoreapp1.0/GoFPatterns.Behavioral.deps.json
+*.pdb
+src/GoFPatterns.Behavioral/bin/Debug/netcoreapp1.0/GoFPatterns.Behavioral.dll
+src/GoFPatterns.Behavioral/bin/Debug/netcoreapp1.0/GoFPatterns.Behavioral.runtimeconfig.json
+src/GoFPatterns.Behavioral/obj/Debug/netcoreapp1.0/.IncrementalCache
+src/GoFPatterns.Behavioral/obj/Debug/netcoreapp1.0/dotnet-compile-csc.rsp
+src/GoFPatterns.Behavioral/obj/Debug/netcoreapp1.0/dotnet-compile.rsp
+src/GoFPatterns.Behavioral/obj/Debug/netcoreapp1.0/.SDKVersion
+src/GoFPatterns.Behavioral/bin/Debug/netcoreapp1.0/GoFPatterns.Behavioral.runtimeconfig.dev.json
+src/GoFPatterns.Behavioral/obj/Debug/netcoreapp1.0/dotnet-compile.assemblyinfo.cs
+*.sln
