@@ -10,3 +10,4 @@ src/GoFPatterns.Behavioral/obj/Debug/netcoreapp1.0/.SDKVersion
 src/GoFPatterns.Behavioral/bin/Debug/netcoreapp1.0/GoFPatterns.Behavioral.runtimeconfig.dev.json
 src/GoFPatterns.Behavioral/obj/Debug/netcoreapp1.0/dotnet-compile.assemblyinfo.cs
 *.sln
+src/.vs/GoFPatterns/v14/.suo
