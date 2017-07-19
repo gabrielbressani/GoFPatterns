@@ -7,8 +7,9 @@ namespace GoFPatterns.Behavioral
 {
     public class Program
     {
-        public static void Main(string[] args)
+        public static void Main()
         {
+            Command.RealWorld.Run();
         }
     }
 }
