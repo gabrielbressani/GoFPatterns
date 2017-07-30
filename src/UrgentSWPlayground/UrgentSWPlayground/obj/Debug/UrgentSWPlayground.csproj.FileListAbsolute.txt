@@ -1,0 +1,1 @@
+C:\Users\Gabriel\Documents\GitHub\GoFPatterns\src\UrgentSWPlayground\UrgentSWPlayground\bin\Debug\UrgentSWPlayground.exe.config
